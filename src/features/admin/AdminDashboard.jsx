@@ -23,7 +23,7 @@ export default function AdminDashboard() {
 
   const kpis = useMemo(() => {
     const totalOrders = orders.length;
-    const totalRevenue = orders.reduce((sum, order) => sum + (order.totalAmount || 0), 0);
+    const totalRevenue = orders.reduce((sum, order) => sum + (order.total || 0), 0);
     const averageOrderValue = totalOrders > 0 ? totalRevenue / totalOrders : 0;
     return { totalOrders, totalRevenue, averageOrderValue };
   }, [orders]);
@@ -37,7 +37,7 @@ export default function AdminDashboard() {
         if (!isValid(date)) return;
         const month = format(date, 'MMM yyyy');
         if (!grouped[month]) grouped[month] = 0;
-        grouped[month] += (order.totalAmount || 0);
+        grouped[month] += (order.total || 0);
       } catch (e) {
         console.error("Invalid date format", e);
       }
