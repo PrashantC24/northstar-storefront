@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "author": "Naina P.",
+    "rating": 5,
+    "title": "Seamless experience",
+    "body": "The product discovery and checkout flow feel polished and intuitive."
+  },
+  {
+    "id": 2,
+    "author": "Rahul M.",
+    "rating": 5,
+    "title": "Fast and modern",
+    "body": "I loved the mobile-first layout and the quick add-to-cart experience."
+  },
+  {
+    "id": 3,
+    "author": "Kavya S.",
+    "rating": 4,
+    "title": "Reliable delivery",
+    "body": "The offers and recommendations make shopping feel effortless."
+  }
+]

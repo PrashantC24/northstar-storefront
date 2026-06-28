@@ -1,0 +1,1 @@
+function o(){const t=window.localStorage.getItem("northstar-orders");return t?JSON.parse(t):[]}function n(t){const e=o(),r=[{...t,id:crypto.randomUUID(),createdAt:new Date().toISOString(),status:"Confirmed"},...e];return window.localStorage.setItem("northstar-orders",JSON.stringify(r)),r[0]}export{o as g,n as s};

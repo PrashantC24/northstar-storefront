@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Sleeve",
+    "price": 999,
+    "rating": 3.8,
+    "brand": "Northstar",
+    "category": "Electronics",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nova Bottle",
+    "price": 1346,
+    "rating": 3.9,
+    "brand": "Auralis",
+    "category": "Fashion",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lumen Sneaker",
+    "price": 1693,
+    "rating": 4,
+    "brand": "Mira Audio",
+    "category": "Home",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Atlas Watch",
+    "price": 2040,
+    "rating": 4.1,
+    "brand": "Orchid",
+    "category": "Beauty",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Terra Chair",
+    "price": 2387,
+    "rating": 4.2,
+    "brand": "Nova",
+    "category": "Books",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sage Desk",
+    "price": 2734,
+    "rating": 4.3,
+    "brand": "Atlas",
+    "category": "Sports",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pulse Bag",
+    "price": 3081,
+    "rating": 4.4,
+    "brand": "Solstice",
+    "category": "Office",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Crest Speaker",
+    "price": 3428,
+    "rating": 4.5,
+    "brand": "Evergreen",
+    "category": "Electronics",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Halo Case",
+    "price": 3775,
+    "rating": 4.6,
+    "brand": "Lumen",
+    "category": "Fashion",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Echo Tote",
+    "price": 4122,
+    "rating": 4.7,
+    "brand": "Kairo",
+    "category": "Home",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Vista Sculpture",
+    "price": 4469,
+    "rating": 4.8,
+    "brand": "Northstar",
+    "category": "Beauty",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vanta Blender",
+    "price": 4816,
+    "rating": 4.9,
+    "brand": "Auralis",
+    "category": "Books",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Aurora Robe",
+    "price": 5163,
+    "rating": 3.8,
+    "brand": "Mira Audio",
+    "category": "Sports",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nova Headset",
+    "price": 5510,
+    "rating": 3.9,
+    "brand": "Orchid",
+    "category": "Office",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lumen Lamp",
+    "price": 5857,
+    "rating": 4,
+    "brand": "Nova",
+    "category": "Electronics",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Atlas Notebook",
+    "price": 6204,
+    "rating": 4.1,
+    "brand": "Atlas",
+    "category": "Fashion",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Terra Sleeve",
+    "price": 6551,
+    "rating": 4.2,
+    "brand": "Solstice",
+    "category": "Home",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Sage Bottle",
+    "price": 6898,
+    "rating": 4.3,
+    "brand": "Evergreen",
+    "category": "Beauty",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Pulse Sneaker",
+    "price": 7245,
+    "rating": 4.4,
+    "brand": "Lumen",
+    "category": "Books",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Crest Watch",
+    "price": 7592,
+    "rating": 4.5,
+    "brand": "Kairo",
+    "category": "Sports",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Halo Chair",
+    "price": 7939,
+    "rating": 4.6,
+    "brand": "Northstar",
+    "category": "Office",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Echo Desk",
+    "price": 8286,
+    "rating": 4.7,
+    "brand": "Auralis",
+    "category": "Electronics",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Vista Bag",
+    "price": 8633,
+    "rating": 4.8,
+    "brand": "Mira Audio",
+    "category": "Fashion",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Vanta Speaker",
+    "price": 8980,
+    "rating": 4.9,
+    "brand": "Orchid",
+    "category": "Home",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Aurora Case",
+    "price": 9327,
+    "rating": 3.8,
+    "brand": "Nova",
+    "category": "Beauty",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Nova Tote",
+    "price": 9674,
+    "rating": 3.9,
+    "brand": "Atlas",
+    "category": "Books",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Lumen Sculpture",
+    "price": 10021,
+    "rating": 4,
+    "brand": "Solstice",
+    "category": "Sports",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Atlas Blender",
+    "price": 10368,
+    "rating": 4.1,
+    "brand": "Evergreen",
+    "category": "Office",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Terra Robe",
+    "price": 10715,
+    "rating": 4.2,
+    "brand": "Lumen",
+    "category": "Electronics",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sage Headset",
+    "price": 11062,
+    "rating": 4.3,
+    "brand": "Kairo",
+    "category": "Fashion",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Pulse Lamp",
+    "price": 11409,
+    "rating": 4.4,
+    "brand": "Northstar",
+    "category": "Home",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Crest Notebook",
+    "price": 11756,
+    "rating": 4.5,
+    "brand": "Auralis",
+    "category": "Beauty",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Halo Sleeve",
+    "price": 12103,
+    "rating": 4.6,
+    "brand": "Mira Audio",
+    "category": "Books",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Echo Bottle",
+    "price": 12450,
+    "rating": 4.7,
+    "brand": "Orchid",
+    "category": "Sports",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Vista Sneaker",
+    "price": 12797,
+    "rating": 4.8,
+    "brand": "Nova",
+    "category": "Office",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Vanta Watch",
+    "price": 13144,
+    "rating": 4.9,
+    "brand": "Atlas",
+    "category": "Electronics",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Aurora Chair",
+    "price": 13491,
+    "rating": 3.8,
+    "brand": "Solstice",
+    "category": "Fashion",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Nova Desk",
+    "price": 13838,
+    "rating": 3.9,
+    "brand": "Evergreen",
+    "category": "Home",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Lumen Bag",
+    "price": 14185,
+    "rating": 4,
+    "brand": "Lumen",
+    "category": "Beauty",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Atlas Speaker",
+    "price": 14532,
+    "rating": 4.1,
+    "brand": "Kairo",
+    "category": "Books",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Terra Case",
+    "price": 14879,
+    "rating": 4.2,
+    "brand": "Northstar",
+    "category": "Sports",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sage Tote",
+    "price": 15226,
+    "rating": 4.3,
+    "brand": "Auralis",
+    "category": "Office",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Pulse Sculpture",
+    "price": 15573,
+    "rating": 4.4,
+    "brand": "Mira Audio",
+    "category": "Electronics",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Crest Blender",
+    "price": 15920,
+    "rating": 4.5,
+    "brand": "Orchid",
+    "category": "Fashion",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Halo Robe",
+    "price": 16267,
+    "rating": 4.6,
+    "brand": "Nova",
+    "category": "Home",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Echo Headset",
+    "price": 16614,
+    "rating": 4.7,
+    "brand": "Atlas",
+    "category": "Beauty",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Vista Lamp",
+    "price": 16961,
+    "rating": 4.8,
+    "brand": "Solstice",
+    "category": "Books",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Vanta Notebook",
+    "price": 17308,
+    "rating": 4.9,
+    "brand": "Evergreen",
+    "category": "Sports",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Aurora Sleeve",
+    "price": 17655,
+    "rating": 3.8,
+    "brand": "Lumen",
+    "category": "Office",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nova Bottle",
+    "price": 18002,
+    "rating": 3.9,
+    "brand": "Kairo",
+    "category": "Electronics",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Lumen Sneaker",
+    "price": 18349,
+    "rating": 4,
+    "brand": "Northstar",
+    "category": "Fashion",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Atlas Watch",
+    "price": 18696,
+    "rating": 4.1,
+    "brand": "Auralis",
+    "category": "Home",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Terra Chair",
+    "price": 19043,
+    "rating": 4.2,
+    "brand": "Mira Audio",
+    "category": "Beauty",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Sage Desk",
+    "price": 19390,
+    "rating": 4.3,
+    "brand": "Orchid",
+    "category": "Books",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Pulse Bag",
+    "price": 19737,
+    "rating": 4.4,
+    "brand": "Nova",
+    "category": "Sports",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Crest Speaker",
+    "price": 20084,
+    "rating": 4.5,
+    "brand": "Atlas",
+    "category": "Office",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Halo Case",
+    "price": 20431,
+    "rating": 4.6,
+    "brand": "Solstice",
+    "category": "Electronics",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Echo Tote",
+    "price": 20778,
+    "rating": 4.7,
+    "brand": "Evergreen",
+    "category": "Fashion",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Vista Sculpture",
+    "price": 21125,
+    "rating": 4.8,
+    "brand": "Lumen",
+    "category": "Home",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Vanta Blender",
+    "price": 21472,
+    "rating": 4.9,
+    "brand": "Kairo",
+    "category": "Beauty",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Aurora Robe",
+    "price": 21819,
+    "rating": 3.8,
+    "brand": "Northstar",
+    "category": "Books",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Nova Headset",
+    "price": 22166,
+    "rating": 3.9,
+    "brand": "Auralis",
+    "category": "Sports",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Lumen Lamp",
+    "price": 22513,
+    "rating": 4,
+    "brand": "Mira Audio",
+    "category": "Office",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Atlas Notebook",
+    "price": 22860,
+    "rating": 4.1,
+    "brand": "Orchid",
+    "category": "Electronics",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Terra Sleeve",
+    "price": 23207,
+    "rating": 4.2,
+    "brand": "Nova",
+    "category": "Fashion",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Sage Bottle",
+    "price": 23554,
+    "rating": 4.3,
+    "brand": "Atlas",
+    "category": "Home",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Pulse Sneaker",
+    "price": 23901,
+    "rating": 4.4,
+    "brand": "Solstice",
+    "category": "Beauty",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Crest Watch",
+    "price": 24248,
+    "rating": 4.5,
+    "brand": "Evergreen",
+    "category": "Books",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Halo Chair",
+    "price": 24595,
+    "rating": 4.6,
+    "brand": "Lumen",
+    "category": "Sports",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Echo Desk",
+    "price": 24942,
+    "rating": 4.7,
+    "brand": "Kairo",
+    "category": "Office",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Vista Bag",
+    "price": 25289,
+    "rating": 4.8,
+    "brand": "Northstar",
+    "category": "Electronics",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Vanta Speaker",
+    "price": 25636,
+    "rating": 4.9,
+    "brand": "Auralis",
+    "category": "Fashion",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Aurora Case",
+    "price": 25983,
+    "rating": 3.8,
+    "brand": "Mira Audio",
+    "category": "Home",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Nova Tote",
+    "price": 1330,
+    "rating": 3.9,
+    "brand": "Orchid",
+    "category": "Beauty",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Lumen Sculpture",
+    "price": 1677,
+    "rating": 4,
+    "brand": "Nova",
+    "category": "Books",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Atlas Blender",
+    "price": 2024,
+    "rating": 4.1,
+    "brand": "Atlas",
+    "category": "Sports",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Terra Robe",
+    "price": 2371,
+    "rating": 4.2,
+    "brand": "Solstice",
+    "category": "Office",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sage Headset",
+    "price": 2718,
+    "rating": 4.3,
+    "brand": "Evergreen",
+    "category": "Electronics",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Pulse Lamp",
+    "price": 3065,
+    "rating": 4.4,
+    "brand": "Lumen",
+    "category": "Fashion",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Crest Notebook",
+    "price": 3412,
+    "rating": 4.5,
+    "brand": "Kairo",
+    "category": "Home",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Halo Sleeve",
+    "price": 3759,
+    "rating": 4.6,
+    "brand": "Northstar",
+    "category": "Beauty",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Echo Bottle",
+    "price": 4106,
+    "rating": 4.7,
+    "brand": "Auralis",
+    "category": "Books",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Vista Sneaker",
+    "price": 4453,
+    "rating": 4.8,
+    "brand": "Mira Audio",
+    "category": "Sports",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Vanta Watch",
+    "price": 4800,
+    "rating": 4.9,
+    "brand": "Orchid",
+    "category": "Office",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Aurora Chair",
+    "price": 5147,
+    "rating": 3.8,
+    "brand": "Nova",
+    "category": "Electronics",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Nova Desk",
+    "price": 5494,
+    "rating": 3.9,
+    "brand": "Atlas",
+    "category": "Fashion",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Lumen Bag",
+    "price": 5841,
+    "rating": 4,
+    "brand": "Solstice",
+    "category": "Home",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Atlas Speaker",
+    "price": 6188,
+    "rating": 4.1,
+    "brand": "Evergreen",
+    "category": "Beauty",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Terra Case",
+    "price": 6535,
+    "rating": 4.2,
+    "brand": "Lumen",
+    "category": "Books",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Sage Tote",
+    "price": 6882,
+    "rating": 4.3,
+    "brand": "Kairo",
+    "category": "Sports",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Pulse Sculpture",
+    "price": 7229,
+    "rating": 4.4,
+    "brand": "Northstar",
+    "category": "Office",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": true,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Crest Blender",
+    "price": 7576,
+    "rating": 4.5,
+    "brand": "Auralis",
+    "category": "Electronics",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Halo Robe",
+    "price": 7923,
+    "rating": 4.6,
+    "brand": "Mira Audio",
+    "category": "Fashion",
+    "description": "made with premium materials. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Echo Headset",
+    "price": 8270,
+    "rating": 4.7,
+    "brand": "Orchid",
+    "category": "Home",
+    "description": "created for a polished workspace. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Vista Lamp",
+    "price": 8617,
+    "rating": 4.8,
+    "brand": "Nova",
+    "category": "Beauty",
+    "description": "built to elevate your routine. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Vanta Notebook",
+    "price": 8964,
+    "rating": 4.9,
+    "brand": "Atlas",
+    "category": "Books",
+    "description": "an everyday essential reimagined. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Aurora Sleeve",
+    "price": 9311,
+    "rating": 3.8,
+    "brand": "Solstice",
+    "category": "Sports",
+    "description": "crafted for daily use. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Nova Bottle",
+    "price": 9658,
+    "rating": 3.9,
+    "brand": "Evergreen",
+    "category": "Office",
+    "description": "designed for modern living. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": false,
+    "colors": [
+      "#0f1724",
+      "#f59e0b",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Lumen Sneaker",
+    "price": 10005,
+    "rating": 4,
+    "brand": "Lumen",
+    "category": "Electronics",
+    "description": "built for comfort and longevity. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": true,
+    "bestSeller": true,
+    "colors": [
+      "#0f1724",
+      "#111827",
+      "#0ea5a4"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Atlas Watch",
+    "price": 10352,
+    "rating": 4.1,
+    "brand": "Kairo",
+    "category": "Fashion",
+    "description": "engineered for effortless style. A refined choice for everyday living and elevated taste.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80"
+    ],
+    "featured": false,
+    "bestSeller": false,
+    "colors": [
+      "#f59e0b",
+      "#111827",
+      "#f43f5e"
+    ]
+  }
+]
